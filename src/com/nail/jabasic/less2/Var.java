@@ -1,3 +1,5 @@
+package com.nail.jabasic.less2;
+
 public class Var {
     public static void main(String[] args) {
         int myInt = 557;

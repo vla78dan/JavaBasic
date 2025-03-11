@@ -1,3 +1,5 @@
+package com.dmdev.less3;
+
 public class BoolEx {
     public static void main(String[] args) {
         int value1 = 0;
