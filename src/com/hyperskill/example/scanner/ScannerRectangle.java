@@ -18,7 +18,7 @@ public class ScannerRectangle {
         // Calculate area
         double area = length * width;
         // Print result rounded to two decimal places
-        System.out.println(area);
+        System.out.printf("%.2f", area);
 
         scanner.close();
     }
