@@ -2,7 +2,7 @@ package com.hyperskill.example.dayproblem;
 
 public class PrintingData {
     public static void main(String[] args) {
-        /**
+        /*
          * 12
          * 3
          * 4
