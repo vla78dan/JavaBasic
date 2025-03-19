@@ -1,4 +1,4 @@
-package com.dmdev.less3;
+package com.dmdev.jabase.less3;
 
 public class Less3Ex {
     public static void main(String[] args) {

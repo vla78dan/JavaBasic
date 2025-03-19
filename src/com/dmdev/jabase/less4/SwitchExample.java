@@ -1,4 +1,4 @@
-package com.dmdev.less4;
+package com.dmdev.jabase.less4;
 
 public class SwitchExample {
     public static void main(String[] args) {

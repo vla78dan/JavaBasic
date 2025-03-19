@@ -1,4 +1,4 @@
-package com.dmdev.less6;
+package com.dmdev.jabase.less6;
 
 public class CicWhile {
     public static void main(String[] args) {

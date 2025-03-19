@@ -1,4 +1,4 @@
-package com.dmdev.task08if;
+package com.dmdev.jabase.task08if;
 
 /**
  * 2. Дано целое число, определить является ли последняя цифра этого числа - цифрой 3.

@@ -1,4 +1,4 @@
-package com.dmdev.task08if;
+package com.dmdev.jabase.task08if;
 
 public class Task83Year {
 // модификаторы, возвращаемый тип, название([параметры] массив)

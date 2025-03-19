@@ -1,4 +1,4 @@
-package com.dmdev.task10func;
+package com.dmdev.jabase.task10func;
 
 /**
  * Написать функцию, которая принимает два целочисленных параметра, и возвращает наибольший
