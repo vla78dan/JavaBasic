@@ -2,7 +2,7 @@ package com.dmdev.compscience.ch2.less;
 
 public class RubleEx3 {
     public static void main(String[] args) {
-int rubles = -458;
+int rubles = 458;
 // 1, !11 рубль
         /*
         2 3 4 рубля
