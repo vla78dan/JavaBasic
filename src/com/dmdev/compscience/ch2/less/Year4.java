@@ -9,12 +9,7 @@ public class Year4 {
     }
 
     public static boolean isLeapYear(int year) {
-        if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0) {
-//            System.out.println(year + " is a leap year");
-            return true;
-        } else {
-            return false;
-//            System.out.println(year + " is not a leap year");
-        }
+        return year % 400 == 0 ||(year % 4 == 0 && year % 100 != 0);
+
     }
 }
