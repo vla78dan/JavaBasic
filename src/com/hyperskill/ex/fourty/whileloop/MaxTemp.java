@@ -10,7 +10,7 @@ public class MaxTemp {
         if(maxTemp >= 100){
             System.out.println("0");
         }else{
-            while
+
         }
     }
 }
