@@ -14,5 +14,19 @@ public class l2PrimitiveDataTypes {
 
         long l1 = 1000;
         long l2 = 20000000000L;
+
+        float f1 = 3.14f;
+        float f2 = 2.5f;
+        float f3 = 20;
+
+        double d1 = 3.14D;
+        double d2 = 3.14d;
+
+        char c1 = 'a';
+        char c2 = 'A';
+        char c5 = 300;
+        char c6 = '\u0500';
+
+        System.out.println(c6);
     }
 }
